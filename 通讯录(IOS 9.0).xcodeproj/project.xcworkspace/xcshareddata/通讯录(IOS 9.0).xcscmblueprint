@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "25c44492-1c54-a941-8763-452c5c339126++4701",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "25c44492-1c54-a941-8763-452c5c339126++4701" : {
+
+    },
+    "773ebed7-9e23-f743-b970-34b9d7e55535++4875" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "25c44492-1c54-a941-8763-452c5c339126++4701" : 0,
+    "773ebed7-9e23-f743-b970-34b9d7e55535++4875" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4EB133CD-ADE6-4E54-AA17-0B22D31F0530",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "25c44492-1c54-a941-8763-452c5c339126++4701" : "",
+    "773ebed7-9e23-f743-b970-34b9d7e55535++4875" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "通讯录(IOS 9.0)",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "通讯录(IOS 9.0).xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.50.106\/svn\/kairu",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "25c44492-1c54-a941-8763-452c5c339126++4701"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.50.106\/svn\/kairu_",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "773ebed7-9e23-f743-b970-34b9d7e55535++4875"
+    }
+  ]
+}
